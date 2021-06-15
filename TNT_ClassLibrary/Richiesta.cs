@@ -209,16 +209,16 @@ namespace TNT_ClassLibrary
 			content.LoadXml(await response.Content.ReadAsStringAsync());
 
 			return content;
-        }
+			}
 
-        public static async Task<HttpResponseMessage> RichiestaPostXML(string baseUrl, string xmlString)
-        {
-            using (var httpClient = new HttpClient())
-            {
-                var httpContent = new StringContent(xmlString, Encoding.UTF8, "text/xml");
+			public static async Task<HttpResponseMessage> RichiestaPostXML(string baseUrl, string xmlString)
+			{
+			    using (var httpClient = new HttpClient())
+			    {
+				var httpContent = new StringContent(xmlString, Encoding.UTF8, "text/xml");
 
-                return await httpClient.PostAsync(baseUrl, httpContent);
-            }
-        }
-    }
+				return await httpClient.PostAsync(baseUrl, httpContent);
+		    	}
+		}
+    	}
 }
