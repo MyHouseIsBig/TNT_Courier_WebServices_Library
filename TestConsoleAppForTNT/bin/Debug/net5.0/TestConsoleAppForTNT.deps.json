@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestConsoleAppForTNT/1.0.0": {
+        "dependencies": {
+          "TNT_ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TestConsoleAppForTNT.dll": {}
+        }
+      },
+      "TNT_ClassLibrary/1.0.0": {
+        "runtime": {
+          "TNT_ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestConsoleAppForTNT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TNT_ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
