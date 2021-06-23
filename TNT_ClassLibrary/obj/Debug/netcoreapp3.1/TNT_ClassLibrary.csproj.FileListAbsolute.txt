@@ -1,0 +1,9 @@
+C:\Users\maxim.palotti.USCO\source\repos\TNT_ClassLibrary\TNT_ClassLibrary\obj\Debug\netcoreapp3.1\TNT_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\maxim.palotti.USCO\source\repos\TNT_ClassLibrary\TNT_ClassLibrary\obj\Debug\netcoreapp3.1\TNT_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\maxim.palotti.USCO\source\repos\TNT_ClassLibrary\TNT_ClassLibrary\obj\Debug\netcoreapp3.1\TNT_ClassLibrary.AssemblyInfo.cs
+C:\Users\maxim.palotti.USCO\source\repos\TNT_ClassLibrary\TNT_ClassLibrary\obj\Debug\netcoreapp3.1\TNT_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\maxim.palotti.USCO\source\repos\TNT_ClassLibrary\TNT_ClassLibrary\bin\Debug\netcoreapp3.1\TNT_ClassLibrary.deps.json
+C:\Users\maxim.palotti.USCO\source\repos\TNT_ClassLibrary\TNT_ClassLibrary\bin\Debug\netcoreapp3.1\TNT_ClassLibrary.dll
+C:\Users\maxim.palotti.USCO\source\repos\TNT_ClassLibrary\TNT_ClassLibrary\bin\Debug\netcoreapp3.1\TNT_ClassLibrary.pdb
+C:\Users\maxim.palotti.USCO\source\repos\TNT_ClassLibrary\TNT_ClassLibrary\obj\Debug\netcoreapp3.1\TNT_ClassLibrary.dll
+C:\Users\maxim.palotti.USCO\source\repos\TNT_ClassLibrary\TNT_ClassLibrary\obj\Debug\netcoreapp3.1\TNT_ClassLibrary.pdb

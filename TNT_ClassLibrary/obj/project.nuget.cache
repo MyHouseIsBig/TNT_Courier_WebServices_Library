@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "f1g53GHshPjbmrRprd/YjMoZhB4lXOlVuz2KzeNIYM880wjeUBojdR1k1krfGF3ViTG8j5NOqRQl7+zFvlX+YA==",
+  "dgSpecHash": "jynB1pnyVNhoGdaXrZaJy0wxXFmKmo835+W31qHYgeAfdkO6i37I1RJjviOPMLLcXLfX5pmtcUiUeV1ErZ/IXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\maxim.palotti.USCO\\source\\repos\\TNT_ClassLibrary\\TNT_ClassLibrary\\TNT_ClassLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\maxim.palotti.USCO\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\maxim.palotti.USCO\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\maxim.palotti.USCO\\.nuget\\packages\\pdftoimage\\1.1.0\\pdftoimage.1.1.0.nupkg.sha512",
+    "C:\\Users\\maxim.palotti.USCO\\.nuget\\packages\\pdftozpl\\2.1.0\\pdftozpl.2.1.0.nupkg.sha512",
+    "C:\\Users\\maxim.palotti.USCO\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
